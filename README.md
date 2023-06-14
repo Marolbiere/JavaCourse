@@ -1,4 +1,4 @@
-# JavaProject
+# JavaCourse
 Répertoire contenant mon apprentissage sur Java  
   
 Descriptions des dossier :  
